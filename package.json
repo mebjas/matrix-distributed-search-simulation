@@ -4,7 +4,8 @@
   "description": "trying out the proposed concept of distributed search in matrix_org/synapse",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node .\\homeserver\\hs.js"
   },
   "repository": {
     "type": "git",
